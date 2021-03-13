@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gasto de Gasolina</string>
+    <string name="distancia">Distância</string>
+    <string name="total_de_kilometro">Total de Kilometro</string>
+    <string name="preco">Preço</string>
+    <string name="preco_por_litros">Preço por Litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="seu_gasto_total">Seu gasto total</string>
+    <string name="valor">R$0</string>
+    <string name="calcular">Calcular</string>
+    <string name="preencha_os_campos">Preencha todos os campos</string>
+    <string name="informe_valores_validos">Informe valores validos</string>
+</resources>
