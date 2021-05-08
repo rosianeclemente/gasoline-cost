@@ -19,11 +19,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun btclick(view: View) {
-        val btSelecionado = view as Button
-        var celID = 0
-        when (btSelecionado.id) {
-            R.id.buttonCalculate -> celID = 1
-        }
         calculate()
     }
 
